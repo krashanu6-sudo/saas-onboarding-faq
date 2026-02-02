@@ -1,0 +1,25 @@
+Product Name: ScaleFlow
+
+Overview:
+ScaleFlow is a SaaS platform that helps teams manage projects, automate workflows, and track performance in one place.
+
+Getting Started:
+To get started with ScaleFlow, create an account using your email address and verify your email. After login, you can create your first workspace.
+
+Account Setup:
+Users can update their profile, change passwords, and manage notification settings from the account settings page.
+
+Integrations:
+ScaleFlow supports integrations with GitHub, Slack, and Google Drive. Integrations can be enabled from the integrations section in settings.
+
+API Access:
+Developers can access the ScaleFlow API by generating an API key from the developer settings page. The API allows access to projects, tasks, and analytics data.
+
+Troubleshooting:
+If you forget your password, use the “Forgot Password” option on the login page to reset it via email.
+
+Billing:
+ScaleFlow offers monthly and yearly plans. Billing details and invoices can be managed from the billing section in account settings.
+
+Best Practices:
+For best results, organize projects into workspaces and regularly update task statuses to track progress effectively.
